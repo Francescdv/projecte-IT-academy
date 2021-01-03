@@ -1,2 +1,5 @@
 Excercici curs git amb sourcetree 
+
 modificació 1 desde la branca 1
+Modificació 1
+Modificació 2
